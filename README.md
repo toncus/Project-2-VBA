@@ -1,2 +1,2 @@
-# Week2VBA
-Week 2 Homework submissions
+# Project -2 VBA
+Stock Market Analysis using VBA
